@@ -1,11 +1,11 @@
 # International Debt Analysis SQL
 
 Analysis of international debt data collected by The World Bank using Microsoft SQL Server.
-
-
+ 
+ 
 Answers were sought to the following questions in this project:
-
-
+ 
+ 
 1 - What is the number of distinct countries?
 
 2 - What are the distinct indicators?
